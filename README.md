@@ -35,7 +35,8 @@ Number of Attributes: 16
 | 10 | 0.92 | Poly | 0.34 | 5.50 |
 
 ## Convergence Graph
-![graph](https://user-images.githubusercontent.com/72306997/233000047-3bbc6cf2-8ec0-4276-8519-17da7da2fb25.png)
+![Screenshot 2024-04-19 114717](https://github.com/gleegazer16/Parameter-Optimization-of-SVM-Assignment-UCS654/assets/100419223/698fcc5f-27de-40a4-8993-0604953c1d87)
+
 
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
